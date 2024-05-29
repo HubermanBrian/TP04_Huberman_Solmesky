@@ -12,9 +12,9 @@ public class HomeController : Controller
     {
         _logger = logger;
     }
-
     public IActionResult Index()
     {
+        ViewBag.Paquetes = ORTWorld.Paquetes;
         return View();
     }
 }
