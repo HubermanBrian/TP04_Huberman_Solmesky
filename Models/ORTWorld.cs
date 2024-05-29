@@ -7,28 +7,19 @@ public static class ORTWorld
     public static Dictionary<string, Paquete> Paquetes {get; private set;}
 
     public static bool IngresarPaquete(string destinoSeleccionado, Paquete paquete){
-        ListaDestinos.Add(destinoSeleccionado);
-        ListaHoteles.Add(paquete.Hotel);
-        ListaAereos.Add(paquete.Aereo);
-        ListaExcursiones.Add(paquete.Excursion);
-        int i = 0;
-        bool encontrado = false;    
-        while (encontrado != true && Paquetes.Count > i)  
+        if(Paquetes.ContainsKey(destinoSeleccionado))
         {
-            
-            if (ListaDestinos[i] == destinoSeleccionado)
-            {
-                encontrado = true;
-            }
-            else
-            {
-                i++;
-            }
+           return true;
         }
-        if(encontrado == false){
+        else
+        {
             Paquetes.Add(destinoSeleccionado,paquete);
+            ListaDestinos.Add(destinoSeleccionado);
+            ListaHoteles.Add(paquete.Hotel);
+            ListaAereos.Add(paquete.Aereo);
+            ListaExcursiones.Add(paquete.Excursion);
+            return false;
         }
-        return encontrado;
     }
 
 }
