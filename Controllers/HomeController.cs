@@ -17,4 +17,24 @@ public class HomeController : Controller
         ViewBag.Paquetes = ORTWorld.Paquetes;
         return View();
     }
+    public IActionResult SelectPaquete(){
+        ViewBag.ListaAereos = ORTWorld.ListaAereos;
+        ViewBag.ListaDestinos = ORTWorld.ListaDestinos;
+        ViewBag.ListaExcursiones = ORTWorld.ListaExcursiones;
+        ViewBag.ListaHoteles = ORTWorld.ListaHoteles;
+        return View();
+    }
+    public IActionResult GuardarPaquete (string Destino, string Hotel, string Aereo, string Excursion)
+    {
+        Paquete paquete = new Paquete(Hotel,Aereo,Excursion);
+        if(ORTWorld.IngresarPaquete(Destino, paquete))
+        {
+            ViewBag.Error = "Destino igual";
+            return RedirectToAction("SelectPaquete");
+        }
+        else
+        {
+            return RedirectToAction("index");
+        }
+    }
 }
