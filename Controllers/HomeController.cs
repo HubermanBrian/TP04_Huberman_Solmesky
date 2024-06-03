@@ -17,24 +17,25 @@ public class HomeController : Controller
         ViewBag.Paquetes = ORTWorld.Paquetes;
         return View();
     }
-    public IActionResult SelectPaquete(){
+    public IActionResult SelectPaquete()
+    {
         ViewBag.ListaAereos = ORTWorld.ListaAereos;
         ViewBag.ListaDestinos = ORTWorld.ListaDestinos;
         ViewBag.ListaExcursiones = ORTWorld.ListaExcursiones;
         ViewBag.ListaHoteles = ORTWorld.ListaHoteles;
         return View();
     }
-    public IActionResult GuardarPaquete (string Destino, string Hotel, string Aereo, string Excursion)
+    public IActionResult GuardarPaquete(int Destino, int Hotel, int Aereo, int Excursion)
     {
-        Paquete paquete = new Paquete(Hotel,Aereo,Excursion);
-        if(ORTWorld.IngresarPaquete(Destino, paquete))
+        Paquete paquete = new Paquete(ORTWorld.ListaHoteles[Hotel], ORTWorld.ListaAereos[Aereo], ORTWorld.ListaExcursiones[Excursion]);
+        if (ORTWorld.IngresarPaquete(ORTWorld.ListaDestinos[Destino], paquete))
         {
             ViewBag.Error = "Destino igual";
             return RedirectToAction("SelectPaquete");
         }
         else
         {
-            return RedirectToAction("index");
+            return RedirectToAction("Index");
         }
     }
 }

@@ -19352,6 +19352,11 @@
       "FilePath": "c:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\Views\\Home\\SelectPaquete.cshtml",
+      "TargetPath": "Views\\Home\\SelectPaquete.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.3"

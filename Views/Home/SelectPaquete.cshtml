@@ -1,0 +1,13 @@
+<form action='@Url.Action("GuardarPaquete")'> 
+    @for(int i = 0; i < ViewBag.ListaDestinos.Count; i++){
+        <p>Destino @(i + 1): @ViewBag.ListaDestinos[i]</p>
+        <img src="~/Img/Hoteles/@ViewBag.ListaHoteles[i]">
+        <img src="~/Img/Aereos/@ViewBag.ListaAereos[i]">
+        <img src="~/Img/Excursiones/@ViewBag.ListaExcursiones[i]">
+    }
+    <label>Eliga Destino<input type="number"/></label>
+    <label>Eliga Hotel<input type="number"/></label>
+    <label>Eliga Aereo<input type="number"/></label>
+    <label>Eliga Excursiones<input type="number"/></label>
+    <input type="submit"/>
+</form>

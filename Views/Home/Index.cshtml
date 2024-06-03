@@ -4,4 +4,9 @@
 
 <div>
     <a href='@Url.Action("SelectPaquete")'>Ir al Link</a>
+    @foreach(Paquete a in ViewBag.Paquetes.Values){
+        <img src="~/Img/Hoteles/@a.Hotel">
+        <img src="~/Img/Aereos/@a.Aereo">
+        <img src="~/Img/Excursiones/@a.Excursion">
+    } 
 </div>

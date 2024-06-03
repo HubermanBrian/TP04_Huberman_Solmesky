@@ -1,6 +1,134 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Aereos\\Avion 0.jfif",
+      "PackagePath": "staticwebassets\\Img\\Aereos\\Avion 0.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Aereos\\Avion 1.jfif",
+      "PackagePath": "staticwebassets\\Img\\Aereos\\Avion 1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Aereos\\Avion 2.jfif",
+      "PackagePath": "staticwebassets\\Img\\Aereos\\Avion 2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Aereos\\Avion 3.jfif",
+      "PackagePath": "staticwebassets\\Img\\Aereos\\Avion 3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Aereos\\Avion 4.jfif",
+      "PackagePath": "staticwebassets\\Img\\Aereos\\Avion 4.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Aereos\\Avion 5.jfif",
+      "PackagePath": "staticwebassets\\Img\\Aereos\\Avion 5.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Aereos\\Avion 6.jfif",
+      "PackagePath": "staticwebassets\\Img\\Aereos\\Avion 6.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Aereos\\Avion 7.jfif",
+      "PackagePath": "staticwebassets\\Img\\Aereos\\Avion 7.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Aereos\\Avion 8.jfif",
+      "PackagePath": "staticwebassets\\Img\\Aereos\\Avion 8.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Aereos\\Avion 9.jfif",
+      "PackagePath": "staticwebassets\\Img\\Aereos\\Avion 9.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Aereos\\Thumbs.db",
+      "PackagePath": "staticwebassets\\Img\\Aereos\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Excursiones\\Thumbs.db",
+      "PackagePath": "staticwebassets\\Img\\Excursiones\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Excursiones\\excusiones 0.jfif",
+      "PackagePath": "staticwebassets\\Img\\Excursiones\\excusiones 0.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Excursiones\\excusiones 1.jfif",
+      "PackagePath": "staticwebassets\\Img\\Excursiones\\excusiones 1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Excursiones\\excusiones 2.jfif",
+      "PackagePath": "staticwebassets\\Img\\Excursiones\\excusiones 2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Excursiones\\excusiones 3.jfif",
+      "PackagePath": "staticwebassets\\Img\\Excursiones\\excusiones 3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Excursiones\\excusiones 4.jfif",
+      "PackagePath": "staticwebassets\\Img\\Excursiones\\excusiones 4.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Excursiones\\excusiones 5.jfif",
+      "PackagePath": "staticwebassets\\Img\\Excursiones\\excusiones 5.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Excursiones\\excusiones 6.jfif",
+      "PackagePath": "staticwebassets\\Img\\Excursiones\\excusiones 6.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Excursiones\\excusiones 7.jfif",
+      "PackagePath": "staticwebassets\\Img\\Excursiones\\excusiones 7.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Excursiones\\excusiones 8.jfif",
+      "PackagePath": "staticwebassets\\Img\\Excursiones\\excusiones 8.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Excursiones\\excusiones 9.jfif",
+      "PackagePath": "staticwebassets\\Img\\Excursiones\\excusiones 9.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Hoteles\\Hotel 1.jfif",
+      "PackagePath": "staticwebassets\\Img\\Hoteles\\Hotel 1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Hoteles\\Hotel 2.jfif",
+      "PackagePath": "staticwebassets\\Img\\Hoteles\\Hotel 2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Hoteles\\Hotel 3.jfif",
+      "PackagePath": "staticwebassets\\Img\\Hoteles\\Hotel 3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Hoteles\\Hotel 4.jfif",
+      "PackagePath": "staticwebassets\\Img\\Hoteles\\Hotel 4.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Hoteles\\Hotel 5.jfif",
+      "PackagePath": "staticwebassets\\Img\\Hoteles\\Hotel 5.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Hoteles\\Hotel 6.jfif",
+      "PackagePath": "staticwebassets\\Img\\Hoteles\\Hotel 6.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Hoteles\\Hotel 7.jfif",
+      "PackagePath": "staticwebassets\\Img\\Hoteles\\Hotel 7.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Hoteles\\Hotel 8.jfif",
+      "PackagePath": "staticwebassets\\Img\\Hoteles\\Hotel 8.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Hoteles\\Hotel 9.jfif",
+      "PackagePath": "staticwebassets\\Img\\Hoteles\\Hotel 9.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\Img\\Hoteles\\Hotel0.jpg",
+      "PackagePath": "staticwebassets\\Img\\Hoteles\\Hotel0.jpg"
+    },
+    {
       "Id": "C:\\Users\\48179712\\Desktop\\TP04_Huberman_Solmesky\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

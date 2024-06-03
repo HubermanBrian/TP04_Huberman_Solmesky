@@ -22,7 +22,7 @@ public static class ORTWorld
         };
          ListaHoteles = new List<string>
         {
-            "Hotel 0.jfif",
+            "Hotel0.jpg",
             "Hotel 1.jfif",
             "Hotel 2.jfif",
             "Hotel 3.jfif",
@@ -59,6 +59,7 @@ public static class ORTWorld
             "excusiones 8.jfif",
             "excusiones 9.jfif"
         };
+        Paquetes = new Dictionary<string, Paquete>();
     }
     public static bool IngresarPaquete(string destinoSeleccionado, Paquete paquete){
         if(Paquetes.ContainsKey(destinoSeleccionado))
@@ -67,7 +68,7 @@ public static class ORTWorld
         }
         else
         {
-            ListaExcursiones.Add(paquete.Excursion);
+            Paquetes.Add(destinoSeleccionado, paquete);
             return false;
         }
     }
