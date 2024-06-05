@@ -1,13 +1,35 @@
 <form action='@Url.Action("GuardarPaquete")'> 
-    @for(int i = 0; i < ViewBag.ListaDestinos.Count; i++){
-        <p>Destino @(i + 1): @ViewBag.ListaDestinos[i]</p>
+<div> 
+<h3>Destino</h3>
+    @for(int i = 0; i < ViewBag.ListaDestinos.Count; i++)
+    {
+        <p>@(i + 1): @ViewBag.ListaDestinos[i]</p>
+    }
+    <label>Eliga Destino<input type="number" name = "Destino" min="1" max="10" required/></label>
+</div>
+<div>
+    <h3>Hoteles</h3>
+    @for(int i = 0; i < ViewBag.ListaDestinos.Count; i++)
+    {
         <img src="~/Img/Hoteles/@ViewBag.ListaHoteles[i]">
+    }
+    <label>Eliga Hotel<input type="number" name= "Hotel" min="1" max="10" required/></label>
+</div>
+<div>
+    <h3>Aereos</h3>
+    @for(int i = 0; i < ViewBag.ListaDestinos.Count; i++)
+    {
         <img src="~/Img/Aereos/@ViewBag.ListaAereos[i]">
+    }
+    <label>Eliga Aereo<input type="number" name = "Aereo" min="1" max="10" required/></label>
+</div>
+<div>
+    <h3>Excursiones</h3>
+    @for(int i = 0; i < ViewBag.ListaDestinos.Count; i++)
+    {
         <img src="~/Img/Excursiones/@ViewBag.ListaExcursiones[i]">
     }
-    <label>Eliga Destino<input type="number" min="0" max="10"/></label>
-    <label>Eliga Hotel<input type="number" min="0" max="10"/></label>
-    <label>Eliga Aereo<input type="number" min="0" max="10"/></label>
-    <label>Eliga Excursiones<input type="number" min="0" max="10"/></label>
+    <label>Eliga Excursiones<input type="number" name = "Excursion" min="1" max="10" required/></label>
+</div>
     <input type="submit"/>
 </form>

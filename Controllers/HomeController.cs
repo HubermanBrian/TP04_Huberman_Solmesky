@@ -27,8 +27,9 @@ public class HomeController : Controller
     }
     public IActionResult GuardarPaquete(int Destino, int Hotel, int Aereo, int Excursion)
     {
-        Paquete paquete = new Paquete(ORTWorld.ListaHoteles[Hotel], ORTWorld.ListaAereos[Aereo], ORTWorld.ListaExcursiones[Excursion]);
-        if (ORTWorld.IngresarPaquete(ORTWorld.ListaDestinos[Destino], paquete))
+        Paquete paquete = new Paquete(ORTWorld.ListaHoteles[Hotel -1], ORTWorld.ListaAereos[Aereo-1], ORTWorld.ListaExcursiones[Excursion-1]);
+
+        if (ORTWorld.IngresarPaquete(ORTWorld.ListaDestinos[Destino-1], paquete))
         {
             ViewBag.Error = "Destino igual";
             return RedirectToAction("SelectPaquete");
