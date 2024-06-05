@@ -5,9 +5,9 @@
         <img src="~/Img/Aereos/@ViewBag.ListaAereos[i]">
         <img src="~/Img/Excursiones/@ViewBag.ListaExcursiones[i]">
     }
-    <label>Eliga Destino<input type="number"/></label>
-    <label>Eliga Hotel<input type="number"/></label>
-    <label>Eliga Aereo<input type="number"/></label>
-    <label>Eliga Excursiones<input type="number"/></label>
+    <label>Eliga Destino<input type="number" min="0" max="10"/></label>
+    <label>Eliga Hotel<input type="number" min="0" max="10"/></label>
+    <label>Eliga Aereo<input type="number" min="0" max="10"/></label>
+    <label>Eliga Excursiones<input type="number" min="0" max="10"/></label>
     <input type="submit"/>
 </form>
