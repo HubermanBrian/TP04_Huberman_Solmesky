@@ -22,9 +22,9 @@ footer {
   padding: 10px;
   border-top: 1px solid #e9ecef;
 }
-div
+div, label, p
 {
-  background-color: rgb(162, 214, 216);
+  background-color: rgb(127, 174, 206);
   margin: 5px;
 }
 div img{
