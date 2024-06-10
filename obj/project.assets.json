@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\HUBERMAN\\.nuget\\packages\\": {}
+    "C:\\Users\\48458614\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Brian\\ORT 2024\\programacion\\TP04_Huberman_Solmesky-1\\TP04_Huberman_Solmesky.csproj",
+      "projectUniqueName": "C:\\Users\\48458614\\Desktop\\TP04_Huberman_Solmesky-1\\TP04_Huberman_Solmesky.csproj",
       "projectName": "TP04_Huberman_Solmesky",
-      "projectPath": "C:\\Brian\\ORT 2024\\programacion\\TP04_Huberman_Solmesky-1\\TP04_Huberman_Solmesky.csproj",
-      "packagesPath": "C:\\Users\\HUBERMAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Brian\\ORT 2024\\programacion\\TP04_Huberman_Solmesky-1\\obj\\",
+      "projectPath": "C:\\Users\\48458614\\Desktop\\TP04_Huberman_Solmesky-1\\TP04_Huberman_Solmesky.csproj",
+      "packagesPath": "C:\\Users\\48458614\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\48458614\\Desktop\\TP04_Huberman_Solmesky-1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\HUBERMAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\48458614\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -69,7 +74,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

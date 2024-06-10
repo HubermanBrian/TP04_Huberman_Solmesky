@@ -22,6 +22,9 @@ footer {
   padding: 10px;
   border-top: 1px solid #e9ecef;
 }
+div{
+  border-radius: 15px;
+}
 div, label, p, a
 {
   background-color: rgb(127, 174, 206);
@@ -33,4 +36,8 @@ div img{
 }
 div h3{
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+input{
+  text-align: right;
+  margin-left: 5px;
 }

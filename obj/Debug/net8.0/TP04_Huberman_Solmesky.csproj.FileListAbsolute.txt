@@ -56,3 +56,32 @@ C:\Brian\ORT 2024\programacion\TP04_Huberman_Solmesky-1\obj\Debug\net8.0\refint\
 C:\Brian\ORT 2024\programacion\TP04_Huberman_Solmesky-1\obj\Debug\net8.0\TP04_Huberman_Solmesky.pdb
 C:\Brian\ORT 2024\programacion\TP04_Huberman_Solmesky-1\obj\Debug\net8.0\TP04_Huberman_Solmesky.genruntimeconfig.cache
 C:\Brian\ORT 2024\programacion\TP04_Huberman_Solmesky-1\obj\Debug\net8.0\ref\TP04_Huberman_Solmesky.dll
+C:\Users\48458614\Desktop\TP04_Huberman_Solmesky-1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\48458614\Desktop\TP04_Huberman_Solmesky-1\bin\Debug\net8.0\appsettings.json
+C:\Users\48458614\Desktop\TP04_Huberman_Solmesky-1\bin\Debug\net8.0\TP04_Huberman_Solmesky.staticwebassets.runtime.json
+C:\Users\48458614\Desktop\TP04_Huberman_Solmesky-1\bin\Debug\net8.0\TP04_Huberman_Solmesky.exe
+C:\Users\48458614\Desktop\TP04_Huberman_Solmesky-1\bin\Debug\net8.0\TP04_Huberman_Solmesky.deps.json
+C:\Users\48458614\Desktop\TP04_Huberman_Solmesky-1\bin\Debug\net8.0\TP04_Huberman_Solmesky.runtimeconfig.json
+C:\Users\48458614\Desktop\TP04_Huberman_Solmesky-1\bin\Debug\net8.0\TP04_Huberman_Solmesky.dll
+C:\Users\48458614\Desktop\TP04_Huberman_Solmesky-1\bin\Debug\net8.0\TP04_Huberman_Solmesky.pdb
+C:\Users\48458614\Desktop\TP04_Huberman_Solmesky-1\obj\Debug\net8.0\TP04_Huberman_Solmesky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48458614\Desktop\TP04_Huberman_Solmesky-1\obj\Debug\net8.0\TP04_Huberman_Solmesky.AssemblyInfoInputs.cache
+C:\Users\48458614\Desktop\TP04_Huberman_Solmesky-1\obj\Debug\net8.0\TP04_Huberman_Solmesky.AssemblyInfo.cs
+C:\Users\48458614\Desktop\TP04_Huberman_Solmesky-1\obj\Debug\net8.0\TP04_Huberman_Solmesky.csproj.CoreCompileInputs.cache
+C:\Users\48458614\Desktop\TP04_Huberman_Solmesky-1\obj\Debug\net8.0\TP04_Huberman_Solmesky.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\48458614\Desktop\TP04_Huberman_Solmesky-1\obj\Debug\net8.0\TP04_Huberman_Solmesky.RazorAssemblyInfo.cache
+C:\Users\48458614\Desktop\TP04_Huberman_Solmesky-1\obj\Debug\net8.0\TP04_Huberman_Solmesky.RazorAssemblyInfo.cs
+C:\Users\48458614\Desktop\TP04_Huberman_Solmesky-1\obj\Debug\net8.0\TP04_Huberman_Solmesky.sourcelink.json
+C:\Users\48458614\Desktop\TP04_Huberman_Solmesky-1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\48458614\Desktop\TP04_Huberman_Solmesky-1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\48458614\Desktop\TP04_Huberman_Solmesky-1\obj\Debug\net8.0\staticwebassets\msbuild.TP04_Huberman_Solmesky.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\48458614\Desktop\TP04_Huberman_Solmesky-1\obj\Debug\net8.0\staticwebassets\msbuild.build.TP04_Huberman_Solmesky.props
+C:\Users\48458614\Desktop\TP04_Huberman_Solmesky-1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TP04_Huberman_Solmesky.props
+C:\Users\48458614\Desktop\TP04_Huberman_Solmesky-1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TP04_Huberman_Solmesky.props
+C:\Users\48458614\Desktop\TP04_Huberman_Solmesky-1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\48458614\Desktop\TP04_Huberman_Solmesky-1\obj\Debug\net8.0\scopedcss\bundle\TP04_Huberman_Solmesky.styles.css
+C:\Users\48458614\Desktop\TP04_Huberman_Solmesky-1\obj\Debug\net8.0\TP04_Huberman_Solmesky.dll
+C:\Users\48458614\Desktop\TP04_Huberman_Solmesky-1\obj\Debug\net8.0\refint\TP04_Huberman_Solmesky.dll
+C:\Users\48458614\Desktop\TP04_Huberman_Solmesky-1\obj\Debug\net8.0\TP04_Huberman_Solmesky.pdb
+C:\Users\48458614\Desktop\TP04_Huberman_Solmesky-1\obj\Debug\net8.0\TP04_Huberman_Solmesky.genruntimeconfig.cache
+C:\Users\48458614\Desktop\TP04_Huberman_Solmesky-1\obj\Debug\net8.0\ref\TP04_Huberman_Solmesky.dll

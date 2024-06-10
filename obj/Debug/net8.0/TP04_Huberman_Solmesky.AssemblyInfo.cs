@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP04_Huberman_Solmesky")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04160da3bbbdd9fbdeae38d4941d6a154d2ce06c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+365a51b65322a1eba61aa2bd679414ba8df7f4e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP04_Huberman_Solmesky")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP04_Huberman_Solmesky")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
